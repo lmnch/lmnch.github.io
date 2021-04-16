@@ -1,9 +1,3 @@
----
-title: Measury
-layout: template
-filename: measury.md
---- 
-
 **Privacy Policy**
 
 Lukas Mönch built the Measury app as a Free app. This SERVICE is provided by Lukas Mönch at no cost and is intended for use as is.
